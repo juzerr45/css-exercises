@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.freedom {
+  background-color: black;
+  color: white;
+}
+
+.No {
+  background-color: yellow;
+}
+.freedom.No {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
